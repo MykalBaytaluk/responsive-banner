@@ -5,13 +5,13 @@ html {
 
 .btn {
   color: #fff;
-  border-color: #fff;
+  border-color: #97a49b;
 }
 
 .btn:hover {
   background-color: #fff;
   border-color: #fff;
-  color:
+  color: #495562;
 }
 
 header {
