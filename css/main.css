@@ -8,6 +8,12 @@ html {
   border-color: #fff;
 }
 
+.btn:hover {
+  background-color: #fff;
+  border-color: #fff;
+  color:
+}
+
 header {
   background-color: #495562;
 }
@@ -26,6 +32,19 @@ header {
 
 @media only screen and (min-width: 60em) {
 
+  html {
+    color: #efefef;
+  }
 
+  header {
+    position: relative;
+  }
+
+  .banner-content {
+    background-image: linear-gradient(to bottom, rgba(73, 85, 98, 0), rgba(73, 85, 98, .9));
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
 
 }
