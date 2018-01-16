@@ -1,5 +1,5 @@
 html {
-  font-family: georgia;
+  font-family: Georgia, serif;
   color: #fff;
 }
 
@@ -21,5 +21,11 @@ header {
   .btn {
     float: right;
   }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+
 
 }
